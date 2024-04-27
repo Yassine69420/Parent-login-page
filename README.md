@@ -19,9 +19,11 @@ Génération de Codes d’Identification :
 
 
 Interface pour les Parents :
+
 •	Offrir aux parents un accès en ligne sécurisé pour consulter l'état de vaccination de leur enfant. Ils pourront voir les dates et types de vaccins reçus, les prochains rendez-vous prévus, etc.
 
  Sécurité et Confidentialité :
+ 
 •	Assurer la sécurité des données des enfants en mettant en place des mesures de protection telles que l'authentification sécurisée des utilisateurs.
 
 •	Respecter les normes de confidentialité des informations médicales pour protéger la vie privée des enfants et de leurs parents.
